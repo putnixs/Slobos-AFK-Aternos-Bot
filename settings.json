@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ptsSMPworld.aternos.me:21660",
+    "ip": "ptsSMPworld.aternos.me",
     "port": 21660,
     "version": "",
     "try-creative": false
